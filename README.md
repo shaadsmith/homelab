@@ -64,4 +64,4 @@ The lab is used to practice virtualization, network segmentation, firewall polic
 - [ ] Introduce infrastructure automation (Terraform + Ansible)
 - [ ] Add network diagrams to documentation
 
-See (Roadmap)[#roadmap.md].
+See [Roadmap](#roadmap.md).
