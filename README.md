@@ -4,6 +4,7 @@ This repository documents the design, implementation, and ongoing evolution of m
 
 The lab is used to practice virtualization, network segmentation, firewall policy design, and whatever else I'm trying to learn at the time.
 
+
 ## Table of Contents
 
 - [Hardware](#hardware)
@@ -22,6 +23,7 @@ The lab is used to practice virtualization, network segmentation, firewall polic
   - [Pi-hole](services/pihole/architecture.md)
   - [Caddy (Reverse Proxy)](services/caddy/architecture.md)
 
+![server-rack](https://github.com/user-attachments/assets/99d045eb-ceca-435c-875f-83ae1e2e5637)
 
 
 ## Goals
