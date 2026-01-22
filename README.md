@@ -23,9 +23,6 @@ The lab is used to practice virtualization, network segmentation, firewall polic
   - [Pi-hole](services/pihole/architecture.md)
   - [Caddy (Reverse Proxy)](services/caddy/architecture.md)
 
-![server-rack](https://github.com/user-attachments/assets/99d045eb-ceca-435c-875f-83ae1e2e5637)
-
-
 ## Goals
 - Practice real-world network segmentation using VLANs
 - Enforce least-privilege traffic flow with explicit firewall rules
