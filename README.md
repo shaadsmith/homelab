@@ -57,4 +57,12 @@ The lab is used to practice virtualization, network segmentation, firewall polic
 - Not cloud-hosted
 
 ## Roadmap
-See `roadmap.md`.
+
+- [ ] Add third Proxmox host and begin cluster design
+- [ ] Migrate hardware documentation to UniFi ecosystem (v2 BOM + rationale)
+- [ ] Add new VLAN to support UniFi network design
+- [ ] Evaluate alternative DNS and monitoring stacks
+- [ ] Introduce infrastructure automation (Terraform + Ansible)
+- [ ] Add network diagrams to documentation
+
+See (Roadmap)[#roadmap.md].
